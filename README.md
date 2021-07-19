@@ -1,4 +1,4 @@
-# Data Science and Business Analyst
+# Data Science and Business Analytics
 # Sparks Foundation Internship
 # Task-1
 # Prediction using Supervised ML
